@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Antwerp Lifting &amp; Rigging</title>
-	<atom:link href="https://dcmaticshare.github.io/kms/en/feed/" rel="self" type="application/rss+xml" />
-	<link>https://dcmaticshare.github.io/kms/en</link>
+	<atom:link href="https://dcmaticshare.github.io/alrs/en/feed/" rel="self" type="application/rss+xml" />
+	<link>https://dcmaticshare.github.io/alrs/en</link>
 	<description>Gespecialiseerd in staalkabel, hijs-, hef-, sleep- en sjormiddele</description>
 	<lastbuilddate>Mon, 21 Oct 2024 19:45:23 +0000</lastbuilddate>
 	<language>en-GB</language>
@@ -21,9 +21,9 @@
 	<generator>https://wordpress.org/?v=6.6.2</generator>
 
 <image>
-	<url>https://dcmaticshare.github.io/kms/wp-content/uploads/2024/10/cropped-favicon-32x32.webp</url>
+	<url>https://dcmaticshare.github.io/alrs/wp-content/uploads/2024/10/cropped-favicon-32x32.webp</url>
 	<title>Antwerp Lifting &amp; Rigging</title>
-	<link>https://dcmaticshare.github.io/kms/en</link>
+	<link>https://dcmaticshare.github.io/alrs/en</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
